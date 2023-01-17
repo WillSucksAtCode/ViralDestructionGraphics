@@ -2,9 +2,12 @@
 
 Elevator Pitch Link: https://youtu.be/lSkoYBFEfxc
 
-Elevator Pitch subtitles: Hello there, my name is william and I am going to be doing this project solo. I’ll be working on my GDW game for this project: Viral Destruction. Viral Destruction game is an FPS wave shooter about an FBI agent going into an infected government facility to rescue any survivors there may be. They'll have to fight against waves of the infected as they make their way lower and lower into the facility as they aim to stop the infection. Given that most of our game will be inside of a relatively close quarters facility, I want to use multiple different tools to make our game look great, mainly I plan to add Normal mapping to give our building more depth, a Toon Ramp for more distinct shading, culling for better resource management, particles and shadows for more visual flair. Basically, over the duration of this course I want to practice with shaders and other visual techniques to make this game look great
+Elevator Pitch subtitles: Hello there, my name is William and I am going to be doing this project with my groupmate, Farhan. We’ll be working on our GDW game for this project: Viral Destruction. Viral Destruction is an FPS wave shooter game about an FBI agent going into an infected government facility to rescue any survivors there may be. They'll have to fight against waves of the infected as they make their way lower and lower into the facility as they aim to stop the infection. Since the game is mainly going to be in a close quarter facility, we decided to use multiple tools we’ll be learning in this class to our advantage. Farhan will practice with shadows and particles which will be used to increase the visual effects of the graphics. I will be working on Normal Mapping that will be used to give more depth to the facility, as well as culling for better resource management. Over the course, Farhan and I plan to practice with shaders in order to make our game as visually appealing as we can. 
 
 Trello Board: https://trello.com/invite/b/N63ENU46/ATTIf3406dcf04ac776ae4e6baa30b3dedb728EAE5D2/graphics
 
 By: William Heath - 100829482
-Developer working on all planned functionality.
+Developer focused on utilizing normal mapping as well as culling for our game.
+
+Farhan Hussain - 100787821
+Developer focused on developing normal particles and shadows for our game.
